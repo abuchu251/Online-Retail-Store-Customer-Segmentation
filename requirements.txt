@@ -1,0 +1,11 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+statsmodels
+scikit-learn
+joblib
+streamlit
+kneed
